@@ -1,0 +1,8 @@
+streamlit
+openai
+lyzr
+pyaudio ; platform_system != 'Windows'
+sounddevice
+SpeechRecognition
+numpy
+python-dotenv
